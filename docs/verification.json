@@ -1,0 +1,14 @@
+{
+  "Harmonix-Arbitrage-1080p.mp4": {
+    "decode_ok": true,
+    "22seconds": true,
+    "24fps": true,
+    "audio_aac": true
+  },
+  "Harmonix-Arbitrage-720p.mp4": {
+    "decode_ok": true,
+    "22seconds": true,
+    "24fps": true,
+    "audio_aac": true
+  }
+}

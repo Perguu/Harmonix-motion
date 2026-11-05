@@ -4,6 +4,7 @@ Source code and outputs for the 22-second Harmonix arbitrage explainer.
 
 ## Outputs
 
+- [720p MP4 — Inter fallback rebuild](output/Harmonix-Arbitrage-720p.mp4).
 - [Final 1080p MP4](output/Harmonix-Arbitrage-1080p.mp4) — 1920×1080, 24 fps, AAC audio.
 - [Interactive HTML preview](output/Harmonix-Arbitrage-Preview.html) — download and open locally; play/pause, timeline, four scene shortcuts and text editor.
 - [Source choreography](src/motion.js).
