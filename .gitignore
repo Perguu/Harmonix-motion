@@ -1,0 +1,5 @@
+node_modules/
+assets/fonts-local/*
+!assets/fonts-local/README.md
+.DS_Store
+*.log

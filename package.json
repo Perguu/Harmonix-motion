@@ -1,0 +1,15 @@
+{
+  "name": "harmonix-motion",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Harmonix arbitrage motion source, interactive HTML preview and video render",
+  "scripts": {
+    "build": "node scripts/build-preview.cjs",
+    "render:720p": "node scripts/render.cjs 720",
+    "render:1080p": "node scripts/render.cjs 1080",
+    "check": "node --check src/motion.js"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "0.1.100"
+  }
+}

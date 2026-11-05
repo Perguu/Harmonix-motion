@@ -1,0 +1,1 @@
+Optional: place your own AeonikTRIAL-Regular.otf or Aeonik-Regular.otf here. This folder is ignored by Git. Do not commit proprietary font files. Without Aeonik the build/render uses bundled Inter. Certain trial symbols use Inter explicitly.
